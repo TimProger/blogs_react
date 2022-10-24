@@ -8,8 +8,6 @@ import Posts from './pages/Posts/PostsContainer';
 
 function App() {
 
-  const {error} = useSelector(store => store.post)
-
   return (
     <div className="App">
       <Routes>

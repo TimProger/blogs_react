@@ -14,8 +14,8 @@ const useAuth = () => {
 }
 
 const ProptectRoutes = () => {
-  const isAuth = useAuth();
-  return true ? <Outlet/> : <Navigate to='/'/>
+  const isAuth = useAuth(); // проверяю авторизацию
+  return true ? <Outlet/> : <Navigate to='/auth'/> // TRUE затычка. На его месте будет isAuth.
 }
 
 export default ProptectRoutes;
