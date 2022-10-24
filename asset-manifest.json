@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/namerepository/static/css/main.c4e4e2e3.css",
+    "main.js": "/namerepository/static/js/main.f0106643.js",
+    "index.html": "/namerepository/index.html",
+    "main.c4e4e2e3.css.map": "/namerepository/static/css/main.c4e4e2e3.css.map",
+    "main.f0106643.js.map": "/namerepository/static/js/main.f0106643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e4e2e3.css",
+    "static/js/main.f0106643.js"
+  ]
+}
